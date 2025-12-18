@@ -29,7 +29,7 @@ cd backend
 npm install
 node server.js
 
-lets see some visual...
+
 
 
 

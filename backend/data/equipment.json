@@ -1,0 +1,37 @@
+[
+  {
+    "id": "35c50e43-528d-4c91-aa78-7dd9cc3ff502",
+    "name": "Mobile",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-18"
+  },
+  {
+    "id": "87ff6cf2-41b1-450b-879d-1d03629ea612",
+    "name": "Charger",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-19"
+  },
+  {
+    "id": "6c3c7c64-3323-46cd-a762-9a3d850e175f",
+    "name": "Earphone",
+    "type": "Machine",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-12-20"
+  },
+  {
+    "id": "5ec4cc26-209c-4d9a-8d49-0fd0674766b6",
+    "name": "Laptop",
+    "type": "Machine",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-12-22"
+  },
+  {
+    "id": "c55cdb98-f14f-4481-b677-f5d2beaee5be",
+    "name": "Extension Board",
+    "type": "Vessel",
+    "status": "Active",
+    "lastCleaned": "2025-12-24"
+  }
+]

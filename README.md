@@ -28,7 +28,6 @@ node server.js
 lets see some visual...
 
 
-![alt text](<Screenshot 2025-12-18 132612-1.png>)
+![image alt](https://github.com/mdgulamrasulkhan/Equipment-tracker/blob/8b6df29703a84e0f28e5b9268c70eb9683edac8f/Screenshot%202025-12-18%20132404-1.png)
 
- ![alt text](<Screenshot 2025-12-18 132404-1.png>)
-```
+ ![image alt](https://github.com/mdgulamrasulkhan/Equipment-tracker/blob/8b6df29703a84e0f28e5b9268c70eb9683edac8f/Screenshot%202025-12-18%20132404-1.png)
